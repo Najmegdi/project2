@@ -30,11 +30,11 @@ button.outlined {
     cursor: pointer;
     padding: 1rem 1.5rem;
     transition: .3s ease-in-out;
+    border-radius: 30px;
 
 }
 button.outlined1:hover , button.outlined2 {
-    border: 2px solid transparent;
-    border-radius: 30px;
+    
     background:
             linear-gradient(to right, #fff, #fff),
             linear-gradient(to right, #ccb9d0, #a7d7d7);
